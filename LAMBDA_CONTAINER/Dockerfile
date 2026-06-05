@@ -12,4 +12,3 @@ CMD ["lambda_function.lambda_handler"]
 
 //1
 //2
-//3
